@@ -246,6 +246,14 @@ body {
     place-items: start;
   }
 
+  .section .section-image {
+    order: 1 !important;
+  }
+
+  .section .section-content {
+    order: 2 !important;
+  }
+
   .section-image img {
     width: 100%;
     height: auto;
