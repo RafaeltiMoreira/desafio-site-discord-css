@@ -6,7 +6,7 @@
 
 ## 🎯 Deploy do Desafio
 
-- 🔗 [Clique aqui para acessar a página]()
+- 🔗 [Clique aqui para acessar a página](https://discord-css-dio.netlify.app/)
 
 ![Preview da Página](.github/preview.png)
 
@@ -45,7 +45,7 @@
 
 - [Plataforma DIO](https://web.dio.me/)
 - [Link do Figma](https://www.figma.com/design/NRBYrG5d4DSzObv7dpTqoM/Desafio-Responsividade---DIO?node-id=1-56&t=KGIhOCCWVtPwhfE1-0)
-- [Deploy Netlify]()
+- [Deploy Netlify](https://discord-css-dio.netlify.app/)
 
 ## 👨‍💻 Autor
 
